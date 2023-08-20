@@ -1,0 +1,5 @@
+streamlit == 1.11.1
+nltk == 3.7
+altair==4.0
+sklearn == 0.0
+xgboost == 1.6.2

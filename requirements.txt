@@ -1,5 +1,5 @@
-streamlit == 1.11.1
-nltk == 3.7
-altair==4.0
+streamlit == 1.45.0
+nltk == 3.9.1
+altair==5.5.0
 sklearn == 0.0
-xgboost == 1.6.2
+xgboost == 3.0.0
